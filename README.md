@@ -33,7 +33,7 @@ credits.csv: Contains information about the cast and crew of each movie.
 
 ## Implementation
 
-The recommendation system is implemented in the recommendations.py file. The code performs the following steps:
+The recommendation system is implemented in the mrs.py file. The code performs the following steps:
 
 1. Load and clean the datasets.
 
