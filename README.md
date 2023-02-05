@@ -8,7 +8,7 @@ A movie recommendation system is a tool that suggests movies to users based on t
 
 ## Requirements
 
-To run this recommendation system, you will need the following software:
+To run this recommendation system, you will need the following:
 
 Python 3.9.12
 <br />
