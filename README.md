@@ -58,9 +58,9 @@ Install the required packages:
 ```bash
 pip install -r requirements.txt
 ```
-Run the recommendation.py file:
+Run the mrs.py file:
 ```bash
-python recommendation.py
+python mrs.py
 ```
 When prompted, enter the name of a movie to receive recommendations for similar movies.
 
